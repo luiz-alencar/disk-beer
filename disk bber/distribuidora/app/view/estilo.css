@@ -1,0 +1,54 @@
+.formulario{
+    width: 400px;
+    padding: 50px;
+    border:1px solid rgb(0, 0, 0);
+    background-color: rgb(224, 212, 82);
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 30px;
+    display: auto;
+}
+
+.tabela{
+    width: 800px;
+    padding: 50px;
+    border:1px solid rgb(0, 0, 0);
+    background-color: rgb(224, 212, 82);
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 30px;
+    display: auto;
+}
+.field{
+    position: relative;
+    padding: 0px;
+    display: auto;
+    margin: 15px;
+}
+
+.field label, 
+.field span{
+    padding-left: 10px;
+    font-size: 1.em;
+    display: block;
+    width: 100%;
+}
+
+textarea{
+    width: 70%;
+    padding-left: 0px;
+    height: 10px;
+    line-height: 5px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    outline: none;
+}
+
+textarea{
+    line-height: 20px;
+    padding: 10px;
+    height: 90px;
+    resize: none;
+}
